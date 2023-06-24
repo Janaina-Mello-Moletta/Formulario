@@ -1,0 +1,32 @@
+
+
+h1
+{   
+    font-family:sans-serif;
+    padding:20;
+    margin:10;
+    color:black;
+    
+}
+
+body 
+{
+    font-family:sans-serif;
+	padding:10px;
+	margin:35px;
+	margin-left:250px;
+	margin-right:450px;
+	color:black;
+	border:3px SOLID black;
+	text-align:justify;
+	background-color:#D3D3D3;
+
+}  
+
+  fieldset
+  {
+  	background-color:#C0C0C0;
+
+}
+
+
